@@ -649,7 +649,7 @@ and Privacy Exposure Index*
 | Secondary Copy     | 1.00 | 1.00 | 0.00 | 1.00 | 1.00 | 3    |
 | Disaster Recovery Copy | 2.00 | 1.00 | 0.00 | 0.50 | 1.00 | 5    |
 | Daily Backup       | 1.00 | 1.50 | 0.00 | 0.00 | 0.00 | 1.5  |
-|                    |      |      |      |      |      | 12.5 |
+| **Total PREF** |      |      |      |      |      | **12.5** |
 
 ### Subscription Management Service Privacy Risk Expansion Factor
 
@@ -659,7 +659,7 @@ and Privacy Exposure Index*
 | Secondary Copy     | 1.00 | 1.00 | 0.00 | 1.00 | 1.00 | 3    |
 | Disaster Recovery Copy | 1.00 | 1.00 | 0.00 | 1.00 | 1.00 | 3    |
 | Daily Backup       | 1.00 | 1.50 | 0.00 | 0.00 | 0.00 | 1.5  |
-|                    |      |      |      |      |      | 10.5 |
+| **Total PREF** |      |      |      |      |      | **10.5** |
 
 ### Backend Streaming Hosting Service Privacy Risk Expansion Factor
 
@@ -669,7 +669,7 @@ and Privacy Exposure Index*
 | Secondary Copy     | 1.00 | 1.00 | 0.00 | 1.00 | 1.00 | 3    |
 | Disaster Recovery Copy | 1.00 | 1.00 | 0.00 | 0.50 | 1.00 | 2.5  |
 | Daily Backup       | 1.00 | 1.50 | 0.00 | 0.00 | 0.00 | 1.5  |
-|                    |      |      |      |      |      | 10   |
+| **Total PREF** |      |      |      |      |      | **10.0** |
 
 ### Landing Sensitive Privacy Risk Expansion Factor
 
@@ -678,7 +678,7 @@ and Privacy Exposure Index*
 | Main Copy          | 1.00 | 1.00 | 0.00 | 1.00 | 0.00 | 2    |
 | Secondary Copy     | 1.00 | 1.00 | 0.00 | 0.50 | 0.00 | 1.5  |
 | Weekly Backup      | 1.00 | 1.50 | 0.50 | 0.00 | 0.00 | 2.25 |
-|                    |      |      |      |      |      | 5.75 |
+| **Total PREF** |      |      |      |      |      | **5.75** |
 
 ### Landing Clean Privacy Risk Expansion Factor
 
@@ -687,7 +687,7 @@ and Privacy Exposure Index*
 | Main Copy          | 1.00 | 1.00 | 0.00 | 1.00 | 0.00 | 2    |
 | Secondary Copy     | 1.00 | 1.00 | 0.00 | 0.50 | 0.00 | 1.5  |
 | Weekly Backup      | 1.00 | 1.50 | 0.50 | 0.00 | 0.00 | 2.25 |
-|                    |      |      |      |      |      | 5.75 |
+| **Total PREF** |      |      |      |      |      | **5.75** |
 
 ### Staging Clean Privacy Risk Expansion Factor
 
@@ -696,7 +696,7 @@ and Privacy Exposure Index*
 | Main Copy          | 1.00 | 1.00 | 0.00 | 1.00 | 0.00 | 2    |
 | Secondary Copy     | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | 1    |
 | Weekly Backup      | 1.00 | 1.50 | 0.00 | 0.00 | 0.00 | 1.5  |
-|                    |      |      |      |      |      | 4.5  |
+| **Total PREF** |      |      |      |      |      | **4.5** |
 
 ### Historical Clean Privacy Risk Expansion Factor
 
@@ -705,7 +705,7 @@ and Privacy Exposure Index*
 | Main Copy          | 1.00 | 1.00 | 0.00 | 1.00 | 0.00 | 2    |
 | Secondary Copy     | 1.00 | 1.00 | 0.00 | 1.00 | 0.00 | 2    |
 | Weekly Backup      | 1.00 | 1.50 | 0.00 | 0.00 | 0.00 | 1.5  |
-|                    |      |      |      |      |      | 5.5  |
+| **Total PREF** |      |      |      |      |      | **5.5** |
 
 ### Analytical Clean Privacy Risk Expansion Factor
 
@@ -714,7 +714,7 @@ and Privacy Exposure Index*
 | Main Copy          | 1.00 | 1.00 | 0.00 | 1.00 | 0.00 | 2    |
 | Secondary Copy     | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | 1    |
 | Weekly Backup      | 1.00 | 1.50 | 0.00 | 0.00 | 0.00 | 1.5  |
-|                    |      |      |      |      |      | 4.5  |
+| **Total PREF** |      |      |      |      |      | **4.5** |
 
 ### Sharing Privacy Risk Expansion Factor
 
@@ -723,4 +723,4 @@ and Privacy Exposure Index*
 | Main Copy          | 1.00 | 1.00 | 0.00 | 1.00 | 0.00 | 2    |
 | Secondary Copy     | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | 1    |
 | Manual Backup      | 1.00 | 1.50 | 0.50 | 0.00 | 0.00 | 2.25 |
-|                    |      |      |      |      |      | 5.25 |
+| **Total PREF** |      |      |      |      |      | **5.25** |
